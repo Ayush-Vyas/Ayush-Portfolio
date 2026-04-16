@@ -73,7 +73,7 @@ I am a motivated developer with hands-on experience in frontend and backend tech
 
 ## 📄 Resume
 
-📥 Download Resume: [Ayush-Vyas-CV.pdf](https://github.com/user-attachments/files/26781832/Ayush-Vyas-CV.pdf)
+📥 Download Resume: [Ayush-Vyas-CV.pdf](https://github.com/user-attachments/files/26785192/Ayush-Vyas-CV.pdf)
 
 ---
 

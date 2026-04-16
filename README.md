@@ -71,11 +71,12 @@ I am a motivated developer with hands-on experience in frontend and backend tech
 
 ## 📬 Contact Me
 
-📧 Email: ayushvyas172@gmail.com
-💼 LinkedIn: [(https://www.linkedin.com/in/ayush-vyas-820983310?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
-🐙 GitHub: https://github.com/Ayush-Vyas
+📧 Email: [ayushvyas172@gmail.com](mailto:ayushvyas172@gmail.com)
 
----
+💼 LinkedIn: [Ayush Vyas](https://www.linkedin.com/in/ayush-vyas-820983310)
+
+🐙 GitHub: [Ayush-Vyas](https://github.com/Ayush-Vyas)
+
 
 ## ⭐ Goal
 

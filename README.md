@@ -1,44 +1,82 @@
-# vCard - Personal portfolio
+# 👋 Hi, I'm Ayush Vyas
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+💻 Aspiring Cloud Engineer & Web Developer
+🚀 Passionate about building real-world web applications and scalable systems
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## 🌐 Portfolio Website
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+🔗 Live: https://ayush-vyas.github.io/Ayush-Portfolio/
 
-## Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## 🧠 About Me
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+I am a motivated developer with hands-on experience in frontend and backend technologies. I enjoy creating interactive and user-friendly web applications, and I am currently focusing on cloud technologies and scalable solutions.
 
-## Installing vCard
+---
 
-To install **vCard**, follow these steps:
+## 🛠️ Tech Stack
 
-Linux and macOS:
+### 💻 Frontend
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+* HTML5
+* CSS3
+* JavaScript
+* React
 
-Windows:
+### ⚙️ Backend
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+* PHP
+* MySQL
 
-## Contact
+### ☁️ Other Skills
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+* Git & GitHub
+* REST APIs
+* Basic Cloud Concepts
 
-## License
+---
 
-MIT
+## 🚀 Projects
+
+### 🛍️ Ayura Hampers Website
+
+* Full-stack PHP project with login, dashboard, order tracking
+* Admin panel with order & feedback management
+* Promo code system integrated
+
+---
+
+### 💰 Spending Game Website
+
+* Interactive web app to simulate spending huge virtual money
+* Features: animations, levels, achievements, sound effects
+
+---
+
+### 🔐 Encryption-Decryption Tool
+
+* Built using React
+* Secure text transformation with modern UI
+
+---
+
+## 📄 Resume
+
+📥 Download Resume: [Ayush-Vyas-CV.pdf](https://github.com/user-attachments/files/26781724/Ayush-Vyas-CV.pdf)
+
+---
+
+## 📬 Contact Me
+
+📧 Email: ayushvyas172@gmail.com
+💼 LinkedIn: [(https://www.linkedin.com/in/ayush-vyas-820983310?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
+🐙 GitHub: https://github.com/Ayush-Vyas
+
+---
+
+## ⭐ Goal
+
+To secure an internship/job where I can apply my skills, learn new technologies, and contribute to real-world projects.

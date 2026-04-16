@@ -49,10 +49,11 @@ I am a motivated developer with hands-on experience in frontend and backend tech
 
 ---
 
-### 💰 Spending Game Website
+### 💰 Dairy Delights Website
 
-* Interactive web app to simulate spending huge virtual money
-* Features: animations, levels, achievements, sound effects
+* Full-stack PHP project with login, dashboard, order tracking
+* Admin panel with order & feedback management
+* Promo code system integrated
 
 ---
 
@@ -60,6 +61,13 @@ I am a motivated developer with hands-on experience in frontend and backend tech
 
 * Built using React
 * Secure text transformation with modern UI
+
+---
+
+### 🔐 ChatBot for LG Washing Machine(RAG)
+
+* Built using Python, APIs
+* A small chatbot for LG Washing Machine
 
 ---
 
